@@ -1,0 +1,14 @@
+{
+  "name": "sua-hashforms",
+  "version": "1.0.0",
+  "description": "Testando a aplicação do SUA - HashForms",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Julia Araripe",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
